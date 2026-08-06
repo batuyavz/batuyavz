@@ -15,7 +15,7 @@ geliştiriyorum.
 | --- | --- |
 | **[XYSınav AI](https://github.com/batuyavz/xysinav-ai)** | Yapay zekâ destekli soru sınıflandırma ve sınav üretim platformu |
 | **Önder Oto** | Kurumsal birleşik mesajlaşma (WhatsApp) sistemi |
-| **Qonexio** | Sosyal medya feed ve etkileşim servisleri |
+| **[Qonexio](https://github.com/batuyavz/qonexio)** | Mikroservis mimarili sosyal medya platformu (feed, mesajlaşma, canlı ses/görüntü) |
 | **[AI Video Platform](https://github.com/batuyavz/ai-video-platform)** | Yapay zekâ destekli toplu video/görsel/avatar üretim sistemi |
 | **Smart Office** | Çoklu yapay zekâ ajanı orkestrasyon platformu |
 
