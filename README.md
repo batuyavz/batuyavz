@@ -1,42 +1,36 @@
-# Merhaba, ben Batuhan Yavuz 👋
+# Hi, I'm Batuhan Yavuz 👋
 
-Junior Software Developer olarak **TypeScript**, **Node.js**, backend geliştirme,
-gerçek zamanlı sistemler ve yapay zekâ entegrasyonları üzerine çalışıyorum.
+I'm a Junior Software Developer working with **TypeScript**, **Node.js**, backend development, real-time systems, and AI integrations.
 
-Gerçek işletme ihtiyaçları için ürettiğim; kuyruk tabanlı iş motorları, gerçek
-zamanlı senkronizasyon ve çoklu AI-ajanı orkestrasyonu içeren sistemler
-geliştiriyorum.
+I build systems for real business needs, including queue-based job engines, real-time synchronization, and multi-agent AI orchestration.
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
-| Proje | Açıklama |
+| Project | Description |
 | --- | --- |
-| **[XYSınav AI](https://github.com/batuyavz/xysinav-ai)** | Yapay zekâ destekli soru sınıflandırma ve sınav üretim platformu |
-| **[Önder Oto](https://github.com/batuyavz/onderoto-whatsapp)** | Çok hesaplı, çok operatörlü kurumsal WhatsApp iletişim merkezi |
-| **[Qonexio](https://github.com/batuyavz/qonexio)** | Mikroservis mimarili sosyal medya platformu (feed, mesajlaşma, canlı ses/görüntü) |
-| **[AI Video Platform](https://github.com/batuyavz/ai-video-platform)** | Yapay zekâ destekli toplu video/görsel/avatar üretim sistemi |
-| **[Smart Office](https://github.com/batuyavz/smart-office)** | Çoklu yapay zekâ ajanı (Claude · Codex) orkestrasyon platformu |
+| **[XYSınav AI](https://github.com/batuyavz/xysinav-ai)** | AI-powered question classification and exam generation platform |
+| **[Önder Oto](https://github.com/batuyavz/onderoto-whatsapp)** | Multi-account, multi-operator business WhatsApp communication hub |
+| **[Qonexio](https://github.com/batuyavz/qonexio)** | Microservices social media platform with feeds, messaging, and live audio/video |
+| **[AI Video Platform](https://github.com/batuyavz/ai-video-platform)** | Batch AI video, image, and avatar generation system |
+| **[Smart Office](https://github.com/batuyavz/smart-office)** | Multi-agent AI orchestration platform for Claude and Codex |
 
-> Bazı projeler gerçek işletme ihtiyaçları için geliştirildiğinden, müşteri
-> gizliliği ve ticari güvenlik nedeniyle kaynak kodun tamamı public değildir.
-> Bu projeler mimari, kullanılan teknolojiler ve geliştirilen özellikleri
-> açıklayan teknik vaka çalışmaları olarak sunulmaktadır.
+> Some projects were developed for real businesses, so their full source code is not public due to client confidentiality and commercial considerations. They are presented as technical case studies describing their architecture, technologies, and features.
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies
 
-**Diller:** TypeScript · JavaScript
+**Languages:** TypeScript · JavaScript
 
 **Backend & Runtime:** Node.js · NestJS · Next.js · WebSocket · Electron · FFmpeg
 
-**Veri & Kuyruk:** PostgreSQL · Redis · Prisma · BullMQ · ScyllaDB · Qdrant
+**Data & Queues:** PostgreSQL · Redis · Prisma · BullMQ · ScyllaDB · Qdrant
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
-- **E-posta:** batuyavz34@gmail.com
+- **Email:** batuyavz34@gmail.com
 - **GitHub:** [@batuyavz](https://github.com/batuyavz)
