@@ -1,9 +1,5 @@
 # Hi, I'm Batuhan Yavuz 👋
 
-I'm a Junior Software Developer working with **TypeScript**, **Node.js**, backend development, real-time systems, and AI integrations.
-
-I build systems for real business needs, including queue-based job engines, real-time synchronization, and multi-agent AI orchestration.
-
 ---
 
 ## 🚀 Featured Projects
